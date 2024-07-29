@@ -1,4 +1,10 @@
-## Hi there 👋
+A software engineer with a bachelor’s degree in computer engineering and 7 years of experience in Android development. My expertise spans fintech, messaging, maps & navigation, and marketplaces. I’ve worked in diverse environments, from startups to large enterprises, adapting to team structures like Spotify tribe, feature teams, squads, and cross-functional teams using agile methodologies such as Scrum and Kanban.
+
+I focus on best practices, staying updated with trends, testing in different pyramids and TDD, and integrating CI/CD and code reviews. I enjoy sharing knowledge and learning from others, having delivered technical presentations and mentored junior engineers. I’ve also improved onboarding processes and refined interview processes in collaboration with HR.
+
+I take ownership of my tasks, ensuring close communication with stakeholders like designers, product managers, and backend teams to deliver high-quality results. I handle obstacles smoothly and keep progress steady.
+
+Throughout my career, I’ve tackled performance issues, decreased startup time and CPU usage, fixed bottlenecks, added accessibility features, and interviewed users to address pain points. As a pragmatic engineer, I view problems from multiple perspectives, apply critical thinking, and focus on delivering the best user experience.
 
 <!--
 **sepehrsadri/sepehrsadri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
