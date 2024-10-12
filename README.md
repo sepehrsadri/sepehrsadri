@@ -6,8 +6,8 @@ I take ownership of my tasks, ensuring close communication with stakeholders lik
 
 Throughout my career, I’ve tackled performance issues, decreased startup time and CPU usage, fixed bottlenecks, added accessibility features, and interviewed users to address pain points. As a pragmatic engineer, I view problems from multiple perspectives, apply critical thinking, and focus on delivering the best user experience.
 
-[![Sepehr Sadri's GitHub stats](https://github-readme-stats.vercel.app/api?username=sepehrsadri)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sepehrsadri)]
+![Sepehr Sadri's GitHub stats](https://github-readme-stats.vercel.app/api?username=sepehrsadri)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sepehrsadri)
 <!--
 **sepehrsadri/sepehrsadri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
